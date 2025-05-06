@@ -10,7 +10,8 @@ ASA-Entrega-01/
 |— dockerfile
 |— README.md 
 
-# 🖥️Técnologias Usadas
+# 🖥️Tecnologias Usadas
+
 *Docker
 *Docker Network
 *Ubuntu

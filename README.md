@@ -1,7 +1,6 @@
-C# ASA
-Diretório da Disciplina de Administração de Sistemas Abertos
+# ASA - Administração de Sistemas Abertos
 
-Disciplina sendo cursada no curso de Redes de Computadores - IFRN
+Diretório da Disciplina de Administração de Sistemas Abertos que está sendo cursada no curso de Redes de Computadores - IFRN
 
 Nesse diretório serão colocados todas as entregas das atividades e todo o densevolvimento do projeto da disciplina
 

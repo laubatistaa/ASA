@@ -4,9 +4,15 @@ Essa atividade tem por objetivo construir três containers que se comunicam atr�
 # 🗂️Estrutura do Projeto
 
 ASA-Entrega-01/
-|-- containerDocinho/ 
-|-- containerFlorzinha/ 
-|-- containerLindinha/ 
-|-- dockerfile 
-|-- README.md 
+|— containerDocinho/ 
+|— containerFlorzinha/
+|— containerLindinha/
+|— dockerfile
+|— README.md 
+
+# 🖥️Técnologias Usadas
+*Docker
+*Docker Network
+*Ubuntu
+*Debian
 

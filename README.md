@@ -6,7 +6,7 @@ Os containers se chamam
 - Floriznha
 - Lindinha
 
-#O projeto está estruturado seguinte forma:
+#Estrutura do Projeto
 
 
 ASA-Entrega-01/

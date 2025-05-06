@@ -1,2 +1,8 @@
-# ASA
-Diretório da Disciplina de Administração de Sistemas Abertos
+# Entrega 01
+Nessa atividade o objetivo é fazer 3 containers se comunicarem entre si. Eles devem estar configurados em redes diferentes e precisam ter configurações básicas que já vem nas imagens utilizadas no projeto. Basta que seja possível acessar ao bash para fazer o teste de conectividade.
+
+Os containers se chamam
+- Docinho
+- Floriznha
+- Lindinha
+

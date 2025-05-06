@@ -6,3 +6,13 @@ Os containers se chamam
 - Floriznha
 - Lindinha
 
+#O projeto está estruturado seguinte forma:
+
+
+ASA-Entrega-01/
+|-- containerDocinho/ #pasta onde fica 1 container
+|-- containerFlorzinha/ #pasta onde fica 1 container
+|-- containerLindinha/ #pasta onde fica 1 container
+|-- dockerfile #arquivo com informações da imagem
+|-- README.md #informações do projeto
+

@@ -11,11 +11,11 @@ services:
     build:
       context: ./web01
       dockerfile: Dockerfile
-    image: web-sales
+    image: dnsprovider
     container_name: web01
 
   web01a:
-    image: web-sales
+    image: dnsprovider
     container_name: web01a
 
   web02:
